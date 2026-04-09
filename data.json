@@ -1,0 +1,14 @@
+[
+  {
+    "email": "test@gmail.com",
+    "source": "Pastebin Leak",
+    "type": "password",
+    "risk": "HIGH"
+  },
+  {
+    "email": "user@company.com",
+    "source": "GitHub Dump",
+    "type": "email",
+    "risk": "MEDIUM"
+  }
+]
